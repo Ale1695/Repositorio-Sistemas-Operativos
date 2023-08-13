@@ -12,6 +12,11 @@
 | kill PID | Para interrumpir o detener un proceso  | 
 | mv source destination | Se utiliza para mover un archivo a algun otro destino deseado | 
 | cp source destination | Copia archivos desde la fuente hasta el destino  | 
+| sudo yay -S --needed base-devel | se utilza para descargar las herramientas de desarollador necesarias para el software, como por ejemplo compiladores  | 
+| sudo systemctl start httpd | Se utilza para iniciar el servidor de Apache HTTP  | 
+| sudo pacman -S unrar zip unzip gzip bzip2 | Se utiliza para descargar distintas utilidades de compresion de archivos y para archivar | 
+| history > comandos.txt | Es para guardar el historial de comandos en un archivo de texto | 
+
 
 
 
